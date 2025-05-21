@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cyanmagentayellowblack&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="cyanmagentayellowblack" width="35%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=cyanmagentayellowblack&show_icons=true&theme=synthwave&locale=en" alt="cyanmagentayellowblack" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cyanmagentayellowblack&show_icons=true&theme=transparent&locale=en&layout=compact" alt="cyanmagentayellowblack" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cyanmagentayellowblack&show_icons=true&theme=transparent&locale=en" alt="cyanmagentayellowblack" width="45%"/>
 </div>
